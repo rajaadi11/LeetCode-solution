@@ -11,6 +11,6 @@ public:
             int freq = it.second;
             if(freq > n/2) return val;
         }
-        return {};
+        return 0;
     }
 };
