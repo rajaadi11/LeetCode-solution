@@ -23,7 +23,7 @@ public:
 
         }
         return false;
-    
+    // 2nd method
         // ListNode* temp = head;
         // unordered_map<ListNode* , bool> mp;
         // while(temp != NULL){
