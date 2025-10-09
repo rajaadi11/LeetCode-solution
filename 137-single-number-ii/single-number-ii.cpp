@@ -10,6 +10,6 @@ public:
                 return it.first;
             }
         }
-        return {};
+        return -1;
     }
 };
